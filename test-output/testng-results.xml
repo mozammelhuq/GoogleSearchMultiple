@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26378" started-at="2019-11-25T02:22:23Z" finished-at="2019-11-25T02:22:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26378" started-at="2019-11-25T02:22:23Z" finished-at="2019-11-25T02:22:50Z">
+      <class name="GoogleTest.TC_001">
+        <test-method status="PASS" signature="OPenBrowser()[pri:0, instance:GoogleTest.TC_001@50ad3bc1]" name="OPenBrowser" is-config="true" duration-ms="1639" started-at="2019-11-25T02:22:23Z" finished-at="2019-11-25T02:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OPenBrowser -->
+        <test-method status="PASS" signature="Test_2()[pri:0, instance:GoogleTest.TC_001@50ad3bc1]" name="Test_2" duration-ms="13823" started-at="2019-11-25T02:22:25Z" finished-at="2019-11-25T02:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2 -->
+        <test-method status="PASS" signature="OPenBrowser()[pri:0, instance:GoogleTest.TC_001@50ad3bc1]" name="OPenBrowser" is-config="true" duration-ms="1365" started-at="2019-11-25T02:22:39Z" finished-at="2019-11-25T02:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OPenBrowser -->
+        <test-method status="PASS" signature="test_01()[pri:0, instance:GoogleTest.TC_001@50ad3bc1]" name="test_01" duration-ms="9471" started-at="2019-11-25T02:22:40Z" finished-at="2019-11-25T02:22:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method status="PASS" signature="ClosingBrowser()[pri:0, instance:GoogleTest.TC_001@50ad3bc1]" name="ClosingBrowser" is-config="true" duration-ms="55" started-at="2019-11-25T02:22:49Z" finished-at="2019-11-25T02:22:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- GoogleTest.TC_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
